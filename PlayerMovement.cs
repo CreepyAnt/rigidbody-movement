@@ -1,5 +1,5 @@
 // SUPER MESSY RIGIDBODY BASED MOVEMENT BY ME, ANT!
-
+// This Code is not optimized, so if you wanna use this code, DONT!
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
